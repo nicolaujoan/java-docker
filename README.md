@@ -1,7 +1,7 @@
 # java-docker
 Java single and multistage dockerized app with my mate <a href="https://github.com/AndreuSorell/">Andreu Sorell</a>
 
-### Single stage - OpenJDK JRE
+### Multi stage - OpenJDK JRE
 <hr>
 
 Crear imagen con el JDK y JRE para empaquetar la app con los jar de la app:
